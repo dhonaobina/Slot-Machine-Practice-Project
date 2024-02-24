@@ -1,0 +1,15 @@
+{
+  "name": "projectfromyoutube",
+  "version": "1.0.0",
+  "description": "practice project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ProjectfromYoutube"
+  },
+  "author": "Tech With Tim (Youtube Channel)",
+  "license": "ISC"
+}
