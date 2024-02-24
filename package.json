@@ -11,5 +11,8 @@
     "url": "ProjectfromYoutube"
   },
   "author": "Tech With Tim (Youtube Channel)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
