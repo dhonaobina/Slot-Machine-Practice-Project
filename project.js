@@ -1,18 +1,10 @@
 //1. Player Deposit some money
 //2. Determine number of lines to bet on
 //3. Collect a bet amount 
-//4. Spin slot machine
+//4. Spin the slot machine
 //5. Check if the player won
-//6. if win, Congratulate and give price to player 
-//7. if lost, apologise and tell player to try again, check if no money left
-//8. Continue or End Game
-
-// function deposit() 
-// {
-//     return 1;
-// }
-
-// const x = deposit();
+//6. Give winnings to player 
+//7. Play again
 
 const prompt = require("prompt-sync")();
 
