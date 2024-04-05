@@ -1,9 +1,8 @@
 
 # This Slot Machine Practice Project 
 
-## This activity was followed through a Youtube Channel Using Node.js: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3XxeE7NF30?si=mUTprCQPkFJybNAf&amp;start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+## This activity was followed through a Youtube Channel Using Node.js:
+Link: https://youtu.be/E3XxeE7NF30?si=dtmavZZNCw5eAddX
 
 The user has the ability to indicate money to deposited.
 Show the current balance before proceeding with the game.
